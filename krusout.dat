@@ -1,0 +1,4 @@
+
+The edges in the minimum spanning tree for the third graph are:
+(G,F) (D,A) (C,D) (A,B) (D,G) (G,E) 
+Its cost is 16

@@ -1,0 +1,9 @@
+
+For the second graph:
+Shortest path from A to A: A(distance = 0)
+Shortest path from A to B: A(distance = 2)
+Shortest path from A to C: D(distance = 3)
+Shortest path from A to D: A(distance = 1)
+Shortest path from A to E: D(distance = 3)
+Shortest path from A to F: G(distance = 6)
+Shortest path from A to G: D(distance = 5)
