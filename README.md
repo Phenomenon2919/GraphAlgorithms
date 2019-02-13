@@ -1,7 +1,7 @@
-#Graph Traversal Algorithms
+# Graph Traversal Algorithms
 
 There are 7 programs present and the language of choice is **python**
-##The first six programs
+## The first six programs
 * dfs.py - For traversing the graph as depth first search
 * articulation.py - For finding the articulation points in graph
 * kruskal.py - For finding the minimum spanning tree through Kruskal's algorithm for a graph
@@ -11,7 +11,7 @@ There are 7 programs present and the language of choice is **python**
 
 These programs take input as *.dat* file and also output onto *.dat* file (except dfs.py which outputs to the terminal)
 
-##'final.py'
+## 'final.py'
 * This program takes 7 graphs as input in *.dat* file
 * The first graph is input to topological sorting
 * The second graph is input to dijkstra's algorithm
@@ -21,7 +21,7 @@ These programs take input as *.dat* file and also output onto *.dat* file (excep
 * The sixth graph is input to search for Strongly Connected Components
 * Input file is named **"input.dat"** & output filename is given as arguement
 
-##Input and Output files
+## Input and Output files
 * articulation.py : art_input.dat & artiout.dat
 * dijkstra.py : dijk_input.dat & dijkout.dat
 * kruskal.py : kruskal_input.dat & krusout.dat
